@@ -1,0 +1,28 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\CataclysmTileReader\bin\Debug\CataclysmTileReader.exe
+C:\Users\Jason\AppData\Local\Temporary Projects\CataclysmTileReader\bin\Debug\CataclysmTileReader.pdb
+C:\Users\Jason\AppData\Local\Temporary Projects\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.Form1.resources
+C:\Users\Jason\AppData\Local\Temporary Projects\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.Properties.Resources.resources
+C:\Users\Jason\AppData\Local\Temporary Projects\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.csproj.GenerateResource.Cache
+C:\Users\Jason\AppData\Local\Temporary Projects\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.exe
+C:\Users\Jason\AppData\Local\Temporary Projects\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.pdb
+C:\Users\Jason\AppData\Local\Temporary Projects\CataclysmTileReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jason\AppData\Local\Temporary Projects\CataclysmTileReader\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jason\AppData\Local\Temporary Projects\CataclysmTileReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jason\AppData\Local\Temporary Projects\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\bin\Debug\CataclysmTileReader.exe.manifest
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\bin\Debug\CataclysmTileReader.application
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\bin\Debug\CataclysmTileReader.exe
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\bin\Debug\CataclysmTileReader.pdb
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.Form1.resources
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.Properties.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.csproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.exe.manifest
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.application
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.exe
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.pdb
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.Form2.resources
+C:\Users\Jason\Documents\Visual Studio 2010\Projects\CataclysmTileReader\CataclysmTileReader\obj\x86\Debug\CataclysmTileReader.Tileset_Checker.resources

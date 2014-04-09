@@ -1,0 +1,13 @@
+Cataclysm Tile Checker
+by Jason Cannon
+
+v: 1.1.1:
+-Fixed a bug where vehicle parts were not accurately being checked. Thanks to Tsu for finding.
+
+V: 1.1:
+-Changed program so rather than comparing two tile_config.json files it now will compare the tileset's tile_config.json file against .jsons located in /data/json.
+-Redesigned program look to accomdate new features. 
+-Added status text to show what is currently happening (although it goes so insanely fast you can't really tell)
+
+V: 1.0:
+Created program. 

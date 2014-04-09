@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CataclysmTileReader.exe" version="1.0.0.0" publicKeyToken="2e7f570fa5c1b527" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CataclysmTileReader" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="CataclysmTileReader.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CataclysmTileReader.exe" size="10752">
+      <assemblyIdentity name="CataclysmTileReader" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>E9vy3L0heFLap113ljuLgkSc5L8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="456192">
+      <assemblyIdentity name="Newtonsoft.Json" version="4.5.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>jFKgouWBUSf5DIULnmf4GXXM0n0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Jason-PC\Jason" issuerKeyHash="d3818aef4b4fe9f450102d7ce2c9c8c025b2c37c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3MHEaAw/Ungr8qxUTz3XLGTCcxo=</DigestValue></Reference></SignedInfo><SignatureValue>gmROyTrlZYv6g6r0O+5xRZKnpJlN92VCYINdlEmUuhxgiOKPGukk53AbEsaJL8AAFKA5bnxWL85dbWzv0J6nVlhKOaL40KKMi/fhKbY48n20ixpOguN4Ft+5TPCg2/ECOVLCmmElMwZ8QxXtyuiywWbF0mj0zs9VLJi1oz0ilrI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sEbPjfxuhKDnw7aCFq9ZKsLg7Kz3KdRRlIQkCOwSXCayk6wKcl3qgjGtumxH9UCcWQ1QCyrzpZdO9u9Z6cn4FMjBC4giCyssd8KIuSpRqO1BVhVVOkL5+8ao8Qz1fs+Ee5iAykhqd7K5P2//kwAfZ9uh5dsAniWoW6Mu/RvX/vc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1a73c2642cd73d4f54acf22b78523f0c68c4c1dc" Description="" Url=""><as:assemblyIdentity name="CataclysmTileReader.exe" version="1.0.0.0" publicKeyToken="2e7f570fa5c1b527" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Jason-PC\Jason</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>PA+qnTy1F9m1zdDtAXP+V6DcYuE=</DigestValue></Reference></SignedInfo><SignatureValue>kzOGnHxZII5GWIQAGxfNo4w2z/8UutFH4roKHvl/jku4AP1na8SGhlzobaZVOL/XRPAzpeV9ikXRl2Hwv6BL1H8kUS94L4N2eB4+IKN9m4U0C2XVD5KhO6pPdBP9101mZ2HMZ5/rhxz5oziFFzFyEp9TrEFi9oA2S/2TguJFLBI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sEbPjfxuhKDnw7aCFq9ZKsLg7Kz3KdRRlIQkCOwSXCayk6wKcl3qgjGtumxH9UCcWQ1QCyrzpZdO9u9Z6cn4FMjBC4giCyssd8KIuSpRqO1BVhVVOkL5+8ao8Qz1fs+Ee5iAykhqd7K5P2//kwAfZ9uh5dsAniWoW6Mu/RvX/vc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQXIyGdvMyX4pM9p98LFM5DTANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwASgBhAHMAbwBuAC0AUABDAFwASgBhAHMAbwBuMB4XDTEzMTEwOTA0MTg1NloXDTE0MTEwOTEwMTg1NlowJzElMCMGA1UEAx4cAEoAYQBzAG8AbgAtAFAAQwBcAEoAYQBzAG8AbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsEbPjfxuhKDnw7aCFq9ZKsLg7Kz3KdRRlIQkCOwSXCayk6wKcl3qgjGtumxH9UCcWQ1QCyrzpZdO9u9Z6cn4FMjBC4giCyssd8KIuSpRqO1BVhVVOkL5+8ao8Qz1fs+Ee5iAykhqd7K5P2//kwAfZ9uh5dsAniWoW6Mu/RvX/vcCAwEAATANBgkqhkiG9w0BAQUFAAOBgQCuKxUnnobJ9AwRTLAt3E+ukOQOvZn4OqlHErMJrGprJK1E6EoRQdRMFJwaPC1VTFmVMRTP9KtZESiwmIgZq/MBYgb38BuMXh02EsPhw0zABT9nx4DbBQnd3/64aGMC5mbM/9fkzafSv3Y1wzd/Sa/BRqDESnsnHwcleMvhUdMEiw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
